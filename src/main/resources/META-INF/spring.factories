@@ -1,0 +1,4 @@
+# providers: esearch-spring-boot-autoconfigure
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.echola.elasticsearch.autoconfigure.EsearchAutoConfiguration
