@@ -3,10 +3,8 @@ package com.echola.elasticsearch.autoconfigure.core;
 import org.elasticsearch.rest.RestStatus;
 
 /**
- * 许可错误异常
- *
- * @Author: wanglei
- * @Date: 2020/12/16
+ * @author liuchunming
+ * @date 2023-06-30
  */
 public class EsearchErrorException extends RuntimeException {
 

@@ -3,10 +3,8 @@ package com.echola.elasticsearch.autoconfigure.core;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * ES配置类
- *
- * @Author: wanglei
- * @Date: 2020/12/16
+ * @author liuchunming
+ * @date 2023-06-30
  */
 @ConfigurationProperties(prefix = EsearchProperties.ECHOLA_PREFIX)
 public class EsearchProperties {

@@ -3,8 +3,8 @@ package com.echola.elasticsearch.autoconfigure.core;
 import org.elasticsearch.action.search.SearchResponse;
 
 /**
- * @author LiuChunMing
- * @date 2022-12-26
+ * @author liuchunming
+ * @date 2023-06-30
  */
 public class EsearchUtil {
 

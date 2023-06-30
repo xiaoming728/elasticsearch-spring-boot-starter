@@ -35,10 +35,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 搜索引擎模板
- *
- * @Author: wanglei
- * @Date: 2020/12/16
+ * @author liuchunming
+ * @date 2023-06-30
  */
 public class EsearchTemplate {
     private static final Logger log = LogManager.getLogger();
